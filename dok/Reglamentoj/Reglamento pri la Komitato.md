@@ -102,7 +102,7 @@ En tiu ĉi Reglamento:
 1. Ĉiu komitatano povas ĉeesti, paroli kaj voĉdoni en ĉiu kunveno de la Komitato.
 2. Ĉiu membro, Honora Membro, Honora Prezidanto, Patrono, komisionano kaj komisiito de la Organizo povas ĉeesti kaj paroli en ĉiu kunveno de la Komitato. La Komitato povas tamen decidi ke iu(j) aŭ ĉiuj el ĉi tiuj ne povas paroli.
 3. Ĉiu homo ne jam aludita povas ĉeesti, sed ne povas paroli, dum ĉiu kunveno, se la Komitato ne decidas kontraŭ ties ĉeesto. La Komitato tamen povas decidi ke iu(j) aŭ ĉiuj el tiuj ĉi povas paroli.
-4. La artikoloj 3.5, 12.2 kaj 14.3 de la Reglamento ne kontraŭas tiun ĉi artikolon.
+4. La artikoloj 3.5 kaj 12.2 de la Reglamento ne kontraŭas tiun ĉi artikolon.
 
 ## 7. Dumkunvenaj labororganoj
 1. La dumkunvenaj labororganoj de la Komitato estas la Propona Komisiono kaj la Voĉdona Komisiono. Ĉiu labororgano havas almenaŭ du membrojn.
@@ -175,8 +175,7 @@ En tiu ĉi Reglamento:
 			<li>Se ne temas pri la unua voĉdono de la Komitato pri tiu propono, oni konsideras tion decido ne voĉdoni pri tiu propono.</li>
 		</ol>
 	</li>
-	<li>Krom laŭ la proceduro priskribita en artikolo 12.5 de la Reglamento, oni voĉdonas nur unu fojon pri iu propono dum unu kunveno.</li>
-	<li>En artikolo 13 de la Reglamento, “propono” signifas ankaŭ amendo-proponojn.</li>
+	<li>Krom laŭ la proceduro priskribita en artikolo 12.3 de la Reglamento, oni voĉdonas nur unu fojon pri iu propono dum unu kunveno.</li>
 </ol>
 
 ## 13. Sekreta voĉdono

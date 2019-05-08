@@ -1,7 +1,7 @@
 ---
 title: Reglamento pri elekto de komitatanoj B
-version: 2019-04-10
-version_comment: Akceptita post reta voĉdono pri la amendoj “Malduumigo de la Reglamentoj”, “Lingvaj ŝanĝoj”, “Ĉapitro pri Patronoj”, “Detaligo pri patronoj”
+version: 2019-05-08
+version_comment: Versio pri kiel aspektus la reglamentoj post aprobo de la reformo de la voĉdonsistemoj
 ---
 
 Reglamento pri elekto de komitatanoj B

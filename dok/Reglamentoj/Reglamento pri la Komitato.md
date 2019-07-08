@@ -187,14 +187,15 @@ En tiu ĉi Reglamento:
 <ol>
 	<li>La tenantoj de la oficoj en la Estraro de TEJO, nome la Prezidanto, la Vicprezidanto(j), la Ĝenerala Sekretario kaj la Kasisto, devas esti elektitaj al specifa ofico. Tio signifas, ke devas okazi aparta elekto por ĉiu el tiuj oficoj. Oni voĉdonas unue por la Prezidanto, due por la Kasisto, trie por la Ĝenerala Sekretario kaj kvare por la Vicprezidanto(j).</li>
 	<li>Kiam la nombro de elekteblaj kandidatoj ne estas priskribita de la Statuto aŭ reglamentoj, la Komitato devas unue decidi kiom da estraranoj aŭ ofico-tenantoj ĝi maksimume elektos, antaŭ ol ĝi elektas. Pro la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj, povas esti elektitaj malpli da estraranoj aŭ ofico-tenantoj ol la maksimumo decidita de la Komitato, sed ne povas esti elektitaj pli da estraranoj aŭ ofico-tenantoj ol tiu maksimumo.</li>
+	<li> Se elektiĝis neniu kandidato en voĉdonado por Prezidanto, Vicprezidanto, Kasisto aŭ Ĝenerala Sekretario, oni remalfermas kandidatiĝojn surloke. </li>
 	<li>
-		Se post du provoj elektiĝis neniu kandidato en voĉdonado por Prezidanto, Kasisto aŭ Ĝenerala Sekretario:
+		Se post du provoj elektiĝis neniu kandidato aŭ se entute mankas kandidatoj en voĉdonado por Prezidanto, Vicprezidanto, Kasisto aŭ Ĝenerala Sekretario:
 		<ol type="A">
 			<li>Oni okazigas voĉdonadon en kiu la Komitato rajtas voĉdoni por iu ajn Individua Membro de TEJO;</li>
 			<li>Estas validaj voĉdonoj kie la nomo estas skribita nekomplete, esperantige, uze de kromnomo, kun nekutima latinliterigo aŭ ortografia eraro, kondiĉe ke tutkonsente laŭ la Voĉdona Komisiono la volo de la elektanto estas klara preter ĉiu nepreteksta dubo kaj ne estas risko de konfuzo kun alia membro de TEJO;</li>
 			<li>La kandidatoj kiuj ricevas pli ol unu voĉo iras al dua voĉdono laŭ la proceduro priskribita en artikolo 2 de la Reglamento pri voĉdonadoj. Se malpli ol 2 kandidatoj ricevis pli ol unu voĉo, ĉiuj voĉdonitaj kandidatoj iras al la dua rondo.</li>
 			<li>Elektita kandidato kiu ne mem kandidatiĝis devas esti tuj kontaktita persone, telefone aŭ rete de la Kunsidestro por peti lian akcepton de la ofico.</li>
-			<li>Okaze ke la elektito malakceptas aŭ dum akceptebla tempokvanto la Kunsidestro ne sukcesas kontaktiĝi kun li, la Komitato komencas novan baloton laŭ la sama proceduro. La eblo akcepti la postenon ĉesas kiam alia elektita kandidato akceptas ĝin.</li>
+			<li>Okaze ke la elektito malakceptas aŭ dum akceptebla tempokvanto la Kunsidestro ne sukcesas kontaktiĝi kun tiu, la Kunsidestro kontaktos la sekvan homon laŭ artikolo 2.13 de la Reglamento pri voĉdonado; se ne plu estas elekteblaj voĉdonitoj, la Komitato komencas novan baloton laŭ la sama proceduro. La eblo akcepti la postenon ĉesas kiam alia elektita kandidato akceptas ĝin.</li>
 		</ol>
 	</li>
 </ol>
